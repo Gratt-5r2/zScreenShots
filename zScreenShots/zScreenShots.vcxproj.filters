@@ -4666,5 +4666,8 @@
     <None Include="ZenGin\Gothic_UserAPI\zVEC4.inl">
       <Filter>Engine SDK\User API\zEngine\V</Filter>
     </None>
+    <None Include="KeyCodes.txt">
+      <Filter>Plugin</Filter>
+    </None>
   </ItemGroup>
 </Project>

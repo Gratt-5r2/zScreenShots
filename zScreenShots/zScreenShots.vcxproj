@@ -1335,6 +1335,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include=".build_settings.inl" />
+    <None Include="KeyCodes.txt" />
     <None Include="ZenGin\Gothic_UserAPI\CGameManager.inl" />
     <None Include="ZenGin\Gothic_UserAPI\oCAIArrow.inl" />
     <None Include="ZenGin\Gothic_UserAPI\oCAIArrowBase.inl" />
